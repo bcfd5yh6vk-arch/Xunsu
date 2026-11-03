@@ -1,0 +1,13 @@
+{
+  "name": "xunsu",
+  "version": "1.0.0",
+  "private": true,
+  "description": "循塑：从一粒种子到一份真实农产品的互动体验",
+  "scripts": {
+    "start": "node server.cjs",
+    "dev": "node server.cjs",
+    "test": "node --test tests/core.test.cjs",
+    "build": "node scripts/build.cjs"
+  },
+  "license": "MIT"
+}
